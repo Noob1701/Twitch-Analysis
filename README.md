@@ -14,9 +14,10 @@ Games are most likely to debut in the top 200 in January. And they are more like
 I have not been able to come up with a satisfactory explanation for this phenomenon. The best I can come up with at this point is Holidays? (shrugs shoulders)
 
 A final note for the reader:
-This repo is not the original repo for this project and is primarily a container for a portfolio project. I will update this as there are a few things I want to add/change.
+This repo is not the original repo for this project and is primarily a container for a portfolio level project. I will keep this repo up to date as there are a few things I want to add/change.
+But I will do so primarily through uploads. (In short, yes, I do know how proper version control works, you can check out the mess that is my Springboard repo for verification). 
 
-Below is a an abbreviated version of the project. You can also reference the report and presentation files in this repo
+Below is an abbreviated version of the project: The meat of the TLDR. 
 
 Top 200 Games on Twitch; Binary Classification and Regression
 
