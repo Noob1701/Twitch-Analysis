@@ -1,11 +1,11 @@
 # Twitch-Analysis
 Contents of this Repo:
-Data Wrangling
+Data Wrangling,
 Exploratory Data Analysis (aided in great detail by the python library Sweetviz) 
-(This may cause some readability issues, I am working on correcting this)
-Data pre-processing and Modeling. 
-A Slide Deck, with Key Findings and Summary of Methods (though if you read through all this, it is redundant)
-A Detailed Report (this readme can be thought of a TLDR for the report)
+(This may cause some readability issues, I am working on correcting this),
+Data pre-processing and Modeling, 
+A Slide Deck, with Key Findings and Summary of Methods (though if you read through all this, it is redundant),
+A Detailed Report (this readme can be thought of a TLDR for the report),
 
 
 The most interesting finding (at least in my opinion):
