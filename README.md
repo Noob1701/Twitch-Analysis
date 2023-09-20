@@ -17,7 +17,7 @@ A final note for the reader:
 This repo is not the original repo for this project and is primarily a container for a portfolio level project. I will keep this repo up to date as there are a few things I want to add/change.
 But I will do so primarily through uploads. (In short, yes, I do know how proper version control works, you can check out the mess that is my Springboard repo for verification). 
 
-Below is an abbreviated version of the project: The meat of the TLDR. 
+Below is an abbreviated summary of the project: The meat of the TLDR. 
 
 Top 200 Games on Twitch; Binary Classification and Regression
 
